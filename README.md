@@ -47,5 +47,6 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 
-
+Screenshot
+<img width="1876" height="803" alt="Screenshot 2026-04-09 000848" src="https://github.com/user-attachments/assets/c269ac82-4d87-4250-9611-d99537ad826d" />
 
