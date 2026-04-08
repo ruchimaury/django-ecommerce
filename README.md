@@ -46,3 +46,7 @@ Users can:
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
+
+Screenshot
+
+<img width="1876" height="803" alt="image" src="https://github.com/user-attachments/assets/df43a11d-f910-496c-a4b4-8bb55b63233c" />
